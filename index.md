@@ -3,7 +3,7 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/sanepunk)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ojas-patil-exe/)
-[![CV](https://img.shields.io/badge/-CV-green?style=flat&logo=Adobe%20Acrobat%20Reader&logoColor=white)](Ojas Patil CV Final.pdf)
+[![CV](https://img.shields.io/badge/-CV-green?style=flat&logo=Adobe%20Acrobat%20Reader&logoColor=white)](https://github.com/sanepunk/sanepunk.github.io/blob/main/Ojas%20Patil%20CV%20Final.pdf)
 [PDF](Ojas Patil CV2.pdf)
 
 ---
